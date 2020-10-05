@@ -1,7 +1,7 @@
 ## The Amazon clone
 This simple Amazon shopping cart prototype shows how React components and the context api can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications.
 
-Firebase base was used in this project for the user authentication and the deployment
+Firebase was used in this project for the user authentication and the deployment,
 Here's the link to the deployed site https://clone-63df1.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
