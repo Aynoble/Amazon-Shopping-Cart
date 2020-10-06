@@ -4,6 +4,8 @@ This simple Amazon shopping cart prototype shows how React components and the co
 Firebase was used in this project for the user authentication and the deployment,
 Here's the link to the deployed site https://clone-63df1.web.app/
 
+Material-ui was used for the Icons
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
